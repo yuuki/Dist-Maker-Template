@@ -10,7 +10,7 @@ dim --config argyle-backend.pl init Argyle-Backend Frame8::Tmpl
 
 # PREPARETION
 
-[Dist::Maker-FromProject](https://github.com/shibayu36/p5-Dist-Maker-FromProject) generates Dist Maker template from project directory.
+[Dist::Maker::FromProject](https://github.com/shibayu36/p5-Dist-Maker-FromProject) generates Dist Maker template from project directory.
 
 ```
 cpanm https://github.com/shibayu36/p5-Dist-Maker-FromProject.git
